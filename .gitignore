@@ -1,0 +1,5 @@
+#Requirement is generated every commit
+
+venv/
+.idea/
+commit-note
